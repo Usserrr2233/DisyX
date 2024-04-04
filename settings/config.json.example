@@ -26,7 +26,7 @@
     "EMBED_COLOR": "#000001",
     "OWNER_ID": "YOU_DISCORD_ID",
     "DEV_ID": [],
-    "SPOTIFY": false,
-    "SPOTIFY_ID": "YOU_SPOTIFY_ID",
-    "SPOTIFY_SECRET": "YOU_SPOTIFY_SECRET"
+    "SPOTIFY": True,
+    "SPOTIFY_ID": "ff55dcadd44e4cb0819ebe5be80ab687",
+    "SPOTIFY_SECRET": "5539f7392ae94dd5b3dfc1d57381303a"
 }
